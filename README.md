@@ -61,9 +61,4 @@ GEMINI_API_KEY=your_gemini_api_key_here   # Required
 }
 ```
 
-## 💡 Interview Talking Points
-- **ATS Scoring:** Weighted breakdown across 4 dimensions (keyword, formatting, experience, skills)
-- **Structured Output:** Gemini returns JSON via prompt engineering (no function calling needed)
-- **JD Matching:** Optional job description enables gap analysis + match score
-- **Error Handling:** PDF cleanup on failure, graceful degradation
-- **No vector DB:** Single-pass LLM extraction is sufficient for structured resume parsing
+
