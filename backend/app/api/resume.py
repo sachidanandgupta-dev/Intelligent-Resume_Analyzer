@@ -45,6 +45,3 @@ async def analyze_resume(
     finally:
         if os.path.exists(file_path):
             os.remove(file_path)
-
-
-fg
