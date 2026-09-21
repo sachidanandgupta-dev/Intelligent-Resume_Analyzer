@@ -1,4 +1,4 @@
-re# 🎯 Intelligent Resume Analyzer
+# 🎯 Intelligent Resume Analyzer
 
 > AI-powered resume analysis with ATS scoring, skill extraction, and improvement suggestions
 
